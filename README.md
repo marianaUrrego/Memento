@@ -1,0 +1,2 @@
+# Memento
+Patrón de comportamiento
