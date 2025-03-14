@@ -1,0 +1,15 @@
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\bin\Debug\net8.0\Memento_clasesAnidadas.exe
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\bin\Debug\net8.0\Memento_clasesAnidadas.deps.json
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\bin\Debug\net8.0\Memento_clasesAnidadas.runtimeconfig.json
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\bin\Debug\net8.0\Memento_clasesAnidadas.dll
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\bin\Debug\net8.0\Memento_clasesAnidadas.pdb
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.AssemblyInfoInputs.cache
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.AssemblyInfo.cs
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.csproj.CoreCompileInputs.cache
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.sourcelink.json
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.dll
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\refint\Memento_clasesAnidadas.dll
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.pdb
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\Memento_clasesAnidadas.genruntimeconfig.cache
+C:\Users\Mariana\OneDrive - UPB\Sexto semestre\arqui de sw\Memento\Memento_clasesAnidadas\Memento_clasesAnidadas\obj\Debug\net8.0\ref\Memento_clasesAnidadas.dll
