@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Memento_clasesAnidadas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4bbfe8294ffff13dd2b7b42be17ce55fdcdfe82")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+65a81069623fe1454a54d57910d5667f9917cebf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Memento_clasesAnidadas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Memento_clasesAnidadas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
